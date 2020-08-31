@@ -1,6 +1,8 @@
 # Foundations of Software Engineering. Seminars
 
 ![Foundations of Software Engineering](cover_image.png)
+*Picture source: [https://www.theatlantic.com](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)* 
+
 
 This repository contains seminars covered during the course Foundations of Software Engineering lectured in the Fall of 2020 at Skoltech.
 

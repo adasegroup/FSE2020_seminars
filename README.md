@@ -1,6 +1,6 @@
 # Foundations of Software Engineering. Seminars
 
-![Foundations of Software Engineering](FSE_LOGO.jpg)
+![Foundations of Software Engineering](cover_image.png)
 *Picture source: [https://www.theatlantic.com](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)* 
 
 

@@ -7,7 +7,7 @@
 This repository contains seminars covered during the course Foundations of Software Engineering lectured in the Fall of 2020 at Skoltech.
 
 The repository is organized by seminars in chronological order. 
-Folder name scheme: *W{Week #}.{Tue *or* Fri}*.
+Folder name scheme: *W{Week #}.{1.Tue *or* 2.Fri}*.
 
 ## Main links
 
